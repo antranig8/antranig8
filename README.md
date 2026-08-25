@@ -16,20 +16,38 @@
 
 ## About Me
 
-- CS student focused on software engineering and real-world applications  
-- Interested in full-stack development, backend systems, and financial technology  
-- Strong focus on structured problem-solving, optimization, and system design  
+- Computer Science student at the University of Maryland
+- Interested in backend engineering, financial technology, and building practical software systems
+- Currently strengthening software architecture, data structures, algorithms, and systems programming
+- Building projects with an emphasis on modular design, testing, and maintainability
 
 ---
 
 ## Currently Working On
 
-- **[CodeMaxx](https://github.com/antranig8/raptorhacks-project)**  
-  An AI-powered platform for learning programming through adaptive quizzes, skill trees, and real-time code execution.  
-  - Full-stack system built with React, FastAPI, and Supabase  
-  - Integrates AI (Groq) for quiz and skill tree generation  
-  - Uses [Piston](https://github.com/engineer-man/piston) for live code execution in coding challenges  
-  - Tracks user progress with XP-based progression and analytics  
+### My-Fi *(Private Repository)*
+
+Personal finance backend designed to import, normalize, and eventually analyze financial transaction data across different account types.
+
+- Building a modular CSV import system for debit and credit accounts
+- Automatically identifies compatible parsers based on financial institution CSV formats
+- Converts different transaction formats into a standardized transaction model
+- Implements validation, error handling, and automated testing
+- Designed with future transaction analytics and financial account aggregation in mind
+
+---
+## Featured Project
+
+### [CodeMaxx](https://github.com/antranig8/raptorhacks-project)
+*Hackathon Winner — RaptorHacks*
+
+AI-powered programming education platform developed for RaptorHacks.
+
+- Built adaptive quizzes and skill-tree progression for programming concepts
+- Integrated Groq-powered AI generation for quizzes and learning paths
+- Used [Piston](https://github.com/engineer-man/piston) for live code execution
+- Implemented XP-based progression and user analytics
+- Built with React, FastAPI, and Supabase
 
 ---
 
